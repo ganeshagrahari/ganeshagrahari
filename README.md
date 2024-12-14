@@ -4,7 +4,6 @@ I'm a passionate 2nd-year BCA student specializing in **Data Science (DS)** and 
 
 - 🚀 Technical team member of my university's largest cultural team.
 - 🌟 Developed a Face Recognition Attendance System and other impactful projects.
-- 🌱 Currently learning and exploring **Microsoft Azure**.
 - ✨ Leading a project on **AI for skill development in youth**.
 - 📌 Active contributor to open-source and a data science enthusiast.
 
@@ -22,7 +21,6 @@ I'm a passionate 2nd-year BCA student specializing in **Data Science (DS)** and 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ---
 
@@ -45,9 +43,9 @@ I'm a passionate 2nd-year BCA student specializing in **Data Science (DS)** and 
 
 ### 💬 **Let's Connect:**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ganeshagrahari)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ganesh-agrahari-727746263/)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ganeshagrahari)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ganeshagrahari.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ganesh-portfolio-site.vercel.app/)
 
 ---
 
