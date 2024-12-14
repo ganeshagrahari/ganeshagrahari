@@ -30,6 +30,8 @@ I'm a passionate 2nd-year BCA student specializing in **Data Science (DS)** and 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshagrahari&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ganeshagrahari&theme=radical)
 
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-brightgreen?style=for-the-badge&logo=machine-learning&logoColor=white)
+
 ---
 
 ### 🚀 **My Projects:**
