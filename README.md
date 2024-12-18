@@ -49,17 +49,13 @@ Hi there! I'm **Ganesh Agrahari** 👋, a passionate 2nd-year BCA student specia
 ---
 
 
----
-
 ### 🔥 **GitHub Streak:**
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ganeshagrahari&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=ganeshagrahari&theme=radical)
 
 </div>
-
----
 
 
 
