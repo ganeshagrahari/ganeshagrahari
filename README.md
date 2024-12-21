@@ -56,14 +56,14 @@ Hi there! I'm **Ganesh Agrahari** 👋, a passionate 2nd-year BCA student specia
 
 ---
 
-### Overall Stats
+## Overall Stats :)
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ganeshagrahari&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
 ---
 
-### Activity Graph
+## Activity Graph 😎
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ganeshagrahari&theme=radical" alt="GitHub Activity Graph" />
 </div>
@@ -71,7 +71,7 @@ Hi there! I'm **Ganesh Agrahari** 👋, a passionate 2nd-year BCA student specia
 
 ---
 
-### 🚀 **My Projects:**
+## 🚀 **My Projects:**
 
 - **[Face Recognition Attendance System](https://github.com/ganeshagrahari/Face-Recognition-Attendance-System):** Automates attendance marking using AI.
 - **[Movie Recommendation System](https://github.com/ganeshagrahari/Movie-Recommendation-System):** Recommends movies based on user preferences.
