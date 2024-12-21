@@ -40,33 +40,18 @@ Hi there! I'm **Ganesh Agrahari** 👋, a passionate 2nd-year BCA student specia
 ## GitHub Stats 😊
 
 ### Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshagrahari&layout=compact&theme=radical)
 
 ### Contributions and Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=your-username&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
+![GitHub Streak](https://streak-stats.demolab.com?user=ganeshagrahari&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
 
 ### Overall Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ganeshagrahari&show_icons=true&theme=radical)
 
 ### Activity Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=radical)
-
-
----
-
-
-### 🔥 **GitHub Streak:**
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=ganeshagrahari&theme=radical)
-
-</div>
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ganeshagrahari&theme=radical)
 
 ---
-
-
-
 
 ### 🚀 **My Projects:**
 
