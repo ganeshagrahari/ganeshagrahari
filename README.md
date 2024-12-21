@@ -104,4 +104,15 @@ Hi there! I'm **Ganesh Agrahari** 👋, a passionate 2nd-year BCA student specia
 
 > "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful." - Albert Schweitzer
 
+---
+
+### 👀 **Profile Views:**
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=ganeshagrahari&style=for-the-badge&color=blueviolet" alt="Profile View Counter" />
+</div>
+
+---
+
 Thanks for visiting my profile! Feel free to reach out for collaboration or just a friendly chat! 😊
+
