@@ -8,7 +8,7 @@ Hi there! I'm **Ganesh Agrahari** 👋, a passionate 2nd-year BCA student specia
 
 - 🚀 Technical team member of my university's largest cultural team.
 - 🌟 Developed impactful projects like a Face Recognition Attendance System.
-- ✨ Leading a project on **AI for skill development in youth**.
+- ✨ Right now focusing about deeplearning and NeuralNetwork in **Pytorch-Framework**.
 - 📌 Active open-source contributor and data science enthusiast.
 - 🎓 Currently focusing on **Machine Learning** and **Deep Learning**.
 
