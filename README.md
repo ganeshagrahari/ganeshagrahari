@@ -1,6 +1,6 @@
 ## 🌟 Welcome to My GitHub Profile! 🌟
 
-Hi there! I'm **Ganesh Agrahari** 👋, a passionate 2nd-year BCA student specializing in **Data Science (DS)** and **Artificial Intelligence (AI)**. My goal is to solve real-world problems with programming, machine learning, and creative thinking.
+Hi there! I'm **Ganesh Agrahari** 👋, a passionate 3rd-year BCA student specializing in **Data Science (DS)** and **Artificial Intelligence (AI)**. My goal is to solve real-world problems with programming, machine learning, and creative thinking.
 
 ---
 
