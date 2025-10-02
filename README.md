@@ -6,13 +6,15 @@ Hi there! I'm **Ganesh Agrahari** 👋, a passionate 3rd-year BCA student specia
 
 ### 📌 **About Me**
 
-- 🚀 Technical team member of my university's largest cultural team.
-- 🌟 Developed impactful projects like a Face Recognition Attendance System.
-- ✨ Right now focusing about deeplearning and NeuralNetwork in **Pytorch-Framework**.
-- 📌 Active open-source contributor and data science enthusiast.
-- 🎓 Currently focusing on **Machine Learning** and **Deep Learning**.
+- 💻 **AI/GenAI Fullstack Developer Intern** – currently working on creating scalable backends using **AWS (S3, Lambda, API Gateway, OpenSearch, Bedrock, etc.)**.  
+- 🚀 Technical team member of my university's largest cultural team.  
+- 🌟 Developed impactful projects like a **Face Recognition Attendance System** and **AI-powered Chatbots**.  
+- ⚡ Actively exploring **Deep Learning**, **Neural Networks**, and **Generative AI** with frameworks like **PyTorch** and **LangChain**.  
+- 📌 Active open-source contributor and passionate about **AI-driven fullstack solutions**.  
+- 🎓 Currently sharpening skills in **Machine Learning**, **Generative AI**, and **Cloud-based AI deployment**.  
 
 ---
+
 
 ### 🔧 **Languages & Tools:**
 
