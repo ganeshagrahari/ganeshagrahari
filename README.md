@@ -1,6 +1,10 @@
 ## 🌟 Welcome to My GitHub Profile! 🌟
 
-Hi there! I'm **Ganesh Agrahari** 👋, a passionate 3rd-year BCA student specializing in **Data Science (DS)** and **Artificial Intelligence (AI)**. My goal is to solve real-world problems with programming, machine learning, and creative thinking.
+Hi there! I'm **Ganesh Agrahari** 👋 — a passionate **AI Engineer Intern at Edubuk** and a **3rd-year BCA student** specializing in **Data Science (DS)** and **Artificial Intelligence (AI)**.  
+
+I’m currently building **Generative AI** and **Agentic AI** solutions, developing **scalable backends** on **AWS** and **Azure**, and working on the **TrueJobs platform** using **OpenAI services**, **Azure Functions**, **AI Search Index**, and **Blob Storage**.  
+
+My mission is to solve **real-world problems** using **machine learning**, **LLMs**, and **cloud-based AI engineering**, while constantly pushing my technical and creative limits.
 
 ---
 
