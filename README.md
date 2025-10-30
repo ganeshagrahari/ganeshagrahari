@@ -6,13 +6,15 @@ Hi there! I'm **Ganesh Agrahari** 👋, a passionate 3rd-year BCA student specia
 
 ### 📌 **About Me**
 
-- 💻 **AI/GenAI Fullstack Developer Intern** – currently working on creating scalable backends using **AWS (S3, Lambda, API Gateway, OpenSearch, Bedrock, etc.)**.  
-- 🚀 Technical team member of my university's largest cultural team.  
-- 🌟 Developed impactful projects like a **Face Recognition Attendance System** and **AI-powered Chatbots**.  
-- ⚡ Actively exploring **Deep Learning**, **Neural Networks**, and **Generative AI** with frameworks like **PyTorch** and **LangChain**.  
-- 📌 Active open-source contributor and passionate about **AI-driven fullstack solutions**.  
-- 🎓 Currently sharpening skills in **Machine Learning**, **Generative AI**, and **Cloud-based AI deployment**.  
-
+- 💻 **AI Engineer Intern at Edubuk** – currently delivering **Generative AI** and **Agentic AI** solutions by building scalable backends using **AWS (Lambda, S3, API Gateway, OpenSearch, Bedrock, etc.)**.  
+- ☁️ Also working on **Azure** to build and deploy the **TrueJobs platform**, leveraging **OpenAI services**, **Azure Functions**, **AI Search Index**, and **Blob Storage** for intelligent and scalable cloud solutions.  
+- 🧠 Designing and integrating **LLM-powered systems** for intelligent automation, data processing, and adaptive decision-making.  
+- 🌟 Developed impactful AI projects including a **Face Recognition Attendance System**, **Healthcare Chatbot**, and **Government Scheme Chatbot**.  
+- ⚡ Passionate about **Deep Learning**, **Neural Networks**, and **LangChain-based Generative AI pipelines**.  
+- 🚀 Technical team member of my university's largest cultural team, contributing to tech-driven event automation.  
+- 📌 Active open-source contributor focused on **AI-driven fullstack and cloud-native solutions**.  
+- 🎓 Continuously enhancing expertise in **Machine Learning**, **LLM orchestration**, and **cloud-based AI deployment**.  
+ 
 ---
 
 
